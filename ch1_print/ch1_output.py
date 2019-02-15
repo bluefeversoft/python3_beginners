@@ -1,4 +1,2 @@
-print(3, end='--:')
-print('-is not-')
-print(4)
-
+print (45, end='-QQ-')
+print ('hello')

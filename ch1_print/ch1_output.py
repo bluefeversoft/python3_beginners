@@ -1,2 +1,3 @@
-print (45, end='-QQ-')
-print ('hello')
+print('hello', 45, sep='++', end='--')
+print('Fred')
+

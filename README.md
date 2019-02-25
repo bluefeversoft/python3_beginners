@@ -29,3 +29,21 @@ looking at how is works and using id() to see the identity of an object
 how to use if, else and elif\
 make simple temperature conversion program
 
+
+## chapter 6
+
+strings, length and indexing\
+detecting a palindrome
+
+
+## chapter 7
+
+loops, for and while\
+looking at range()
+
+
+## chapter 8
+
+guessing the computers random number\
+importing the random module and generating a random integer
+

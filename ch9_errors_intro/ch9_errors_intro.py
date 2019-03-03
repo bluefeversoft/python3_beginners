@@ -11,7 +11,14 @@ while True:
 	user_guess = input('enter your guess >')
 	if user_guess == 'q':
 		break
-	user_guess = int(user_guess)
+	try:
+		user_guess = int(user_guess)
+	except ValueError as err:
+		print('Not a number!!')
+		print('Error:', err)
+		continue
+	finally:
+		print('here anyway')
 	num_guesses = num_guesses + 1
 	
 	if user_guess == our_number:

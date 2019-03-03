@@ -45,5 +45,6 @@ looking at range()
 ## chapter 8
 
 guessing the computers random number\
-importing the random module and generating a random integer
+importing the random module and generating a random integer\
+casting str to int
 
